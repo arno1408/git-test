@@ -1,2 +1,1 @@
-This is my second text
-This is second but a little updated
+This is my first text
